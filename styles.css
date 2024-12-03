@@ -1,0 +1,15 @@
+.service-carousel .bg-light {
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+}
+.service-carousel img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+.bg-light:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
